@@ -4,7 +4,7 @@
 - The script `/usr/local/bin/log_cleanup.sh` exists and logs to:
 
   ```text
-  /var/log/cleanup_report.log
+/var/log/cleanup_report.log
 
 2. Create custom UserParameter on the agent
 
