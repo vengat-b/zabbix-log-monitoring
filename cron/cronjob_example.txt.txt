@@ -1,0 +1,2 @@
+# Run cleanup at 2 AM daily
+0 2 * * * /usr/local/bin/log_cleanup.sh
